@@ -45,7 +45,7 @@ class MessageStorage {
                         "       <h1>twitter</h1>" +
                         "       This is your twitter application" +
                         "       <ul class=\"messages\">" +
-                        messages +
+                                messages +
                         "       </ul>"+
                         "   </body>" +
                         "</html>";
